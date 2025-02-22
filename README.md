@@ -1,0 +1,2 @@
+# Python Function: Handling Non-Numeric Elements in a List
+This repository demonstrates a common Python coding error related to handling non-numeric elements in lists when calculating averages.  The initial code lacks proper error handling, leading to a `TypeError` if the input list contains non-numeric values. The solution showcases improved error handling to address this.
